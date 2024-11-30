@@ -39,3 +39,8 @@ A sample output image showing the comparison of time complexities on a raw (line
 ### [time_complexity_visualization_modelling.png](time_complexity_visualization_modelling.png)
 ![Modelling](time_complexity_visualization_modelling.png)
 A sample output image showing the modelling of different custom functions with their corresponding time complexities.
+
+This should look similar to
+![running_time_complexity](running_time_complexity.png)
+
+
